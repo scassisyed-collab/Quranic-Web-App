@@ -41,3 +41,5 @@ streamlit run app.py
 Developed by Syed Hussain Ali
 
 🔗 GitHub: /https://github.com/scassisyed-collab
+    link: streamlit run yourscript.py
+    
