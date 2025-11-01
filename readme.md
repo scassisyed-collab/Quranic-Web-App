@@ -31,7 +31,7 @@ git clone https://github.com/your-username/quranic-web-app.git
 cd quranic-web-app
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
 # Run the app
 streamlit run app.py
@@ -39,4 +39,5 @@ streamlit run app.py
 🙌 Author
 
 Developed by Syed Hussain Ali
+
 🔗 GitHub: /https://github.com/scassisyed-collab
